@@ -6,7 +6,7 @@ São sistemas internos, então o código é privado. Aqui está o que interessa 
 
 | Caso | Área | Problema | Resultado |
 |---|---|---|---|
-| [**Castelo RH**](castelo-rh/) | RH | Triagem manual de currículos repetidos e fora do perfil, feita na caixa de entrada | 3.048 candidatos únicos, mais de 2 mil reenvios reconhecidos, mais de 10 mil registros migrados de planilha |
+| [**Castelo RH**]([castelo-rh/](https://github.com/MiguelMDias/product-cases/tree/main/product-cases/castelo-rh)) | RH | Triagem manual de currículos repetidos e fora do perfil, feita na caixa de entrada | 3.048 candidatos únicos, mais de 2 mil reenvios reconhecidos, mais de 10 mil registros migrados de planilha |
 | [**Auditoria por Conferência Cega**](conferencia-cega/) | Logística | Quem confere sabendo a quantidade esperada tende a confirmar o número | Auditoria sem viés, com indicadores por rota e transportador |
 | [**Gestão de Frota**](gestao-de-frota/) | Logística | Gastos, manutenções e estoque de peças sem controle centralizado | Plataforma única com 4 perfis de acesso e estoque integrado às notas fiscais |
 
