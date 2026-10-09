@@ -39,13 +39,23 @@ O projeto partiu de um documento de requisitos da área de Logística. A partir 
 
 Módulos em produção: máquinas, fornecedores, notas fiscais, manutenções, abastecimentos, checklist, estoque, financeiro, relatórios, logs e gestão de usuários.
 
-> _[Adicione aqui 2 ou 3 telas: dashboard do diretor, tela do mecânico no celular e o módulo de estoque.]_
+**Máquinas.** Cadastro único da frota mista, com situação e centro de despesa de cada equipamento.
+
+![Cadastro de máquinas](img/01-maquinas.png)
+
+**Manutenções.** Histórico por máquina, com horímetro ou quilometragem, e aba separada para as preventivas.
+
+![Manutenções](img/02-manutencoes.png)
+
+**Notas fiscais.** Cada nota fica ligada ao fornecedor, ao centro de despesa e às máquinas que receberam as peças.
+
+![Notas fiscais](img/03-notas-fiscais.png)
 
 ## Resultados
 
 - Gastos, medições e manutenções de toda a frota em um só lugar.
 - Estoque de peças atualizado pelas próprias notas e manutenções, sem lançamento duplicado.
-- _[Adicione os números: máquinas cadastradas, manutenções registradas, tempo de lançamento de uma nota antes e depois.]_
+- 15 máquinas e veículos cadastrados, de 4 tipos: trator, carro, empilhadeira a gás e empilhadeira elétrica.
 
 ## Aprendizados
 
@@ -56,6 +66,10 @@ Módulos em produção: máquinas, fornecedores, notas fiscais, manutenções, a
 
 - Módulo de filiais, para acompanhar custo por unidade.
 - Relatórios e análises mais completos para a diretoria.
+
+---
+
+<sub>As telas mostram o sistema real, com valores, fornecedores e números patrimoniais cobertos.</sub>
 
 ## Stack
 
